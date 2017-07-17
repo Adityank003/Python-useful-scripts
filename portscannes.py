@@ -33,4 +33,4 @@ except socket.error:
     sys.exit()
 
 
-print 'Scanning Completed'
+print 'Scanning Completed"
