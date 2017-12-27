@@ -2,12 +2,11 @@ import os
 import fnmatch
 
 
-#configure path where you need to search
-#Below path searches entire C drive
-Path = 'C:/'
+
+Path = 'C:/Users/adityan/Downloads'
 
 
-#Files with extention you need to find
+
 pattern = '*.jpg'
 
  
