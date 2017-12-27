@@ -6,7 +6,6 @@ import fnmatch
 Path = 'C:/Users/adityan/Downloads'
 
 
-
 pattern = '*.jpg'
 
  
